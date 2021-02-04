@@ -1,0 +1,46 @@
+* {
+  margin: 0 10%;
+  padding: 20px 0;
+}
+
+.imagepublic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  /*height: 80%;*/
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  text-align: center;
+}
+
+
+.MyNameClass {
+  margin: 20px 0;
+  text-align: center;
+  border: 1px solid green;
+  text-decoration-line: underline;
+  max-width: 100%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.MyNameClass:hover {
+  cursor: pointer;
+  background-color: yellow;
+}
+
+.MyNameAddress{
+  margin: 20px 0;
+  text-align: center;
+  border: 1px solid green;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
